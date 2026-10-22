@@ -12,7 +12,7 @@ A menu-driven application developed using C to manage contact information.
 - Validate phone numbers and email addresses
 - Save and load contact details using file(CSV format)
 
-##Technologies Used
+## Technologies Used
 - Programming Language: C
 - Compiler: GCC
 - Concepts: Structures, Arrays, Functions, Pointers, and Strings
