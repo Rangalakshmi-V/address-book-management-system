@@ -1,5 +1,3 @@
-# address-book-management-system
-A menu-driven Address Book Management System developed using C. 
 # Address Book Management System Using C
 
 ## Project Overview
